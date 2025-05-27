@@ -1,0 +1,27 @@
+problema deve ser trocado um lanpada fazendo o robo trocar la mas são apenas 5 codigos que ele podetem entender 
+
+
+mover a garra para<obejeto/lugar>
+Gire garra 180° sentido horario
+Gire garra 180° sentido anti-horario
+feche a garra
+abre garra
+
+
+
+mover a garra para<obejeto lanpada na tetu>
+abre garra
+mover a garra para<obejeto lanpada>
+feche a garra
+Gire garra 180° sentido anti-horario
+Gire garra 180° sentido anti-horario
+mover a garra para<lugar mesa>
+abre garra
+mover a garra para<obejeto lanpada nova>
+abre garra
+mover a garra para<obejeto lanpada nova>
+feche a garra
+mover a garra para<obejeto bocal>
+Gire garra 180° sentido horario
+Gire garra 180° sentido horario
+mover a garra para<lugar para baixo >

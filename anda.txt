@@ -1,0 +1,12 @@
+ir para o ponto B partindo do lado A
+
+
+
+Poderá atravessar somente quando estiver o semáforo estiver vermelho 
+poderá atravessar somente se não estiver carro vindo ou algum carro ter parado para ele poder atravessar 
+
+vire para esquerda
+poderá atravessar somente se não estiver carro vindo ou algum carro ter parado para ele poder atravessar 
+
+vire para esquerda
+poderá atravessar somente se não estiver carro vindo ou algum carro ter parado para ele poder atravessar 
